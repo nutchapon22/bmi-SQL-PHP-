@@ -16,16 +16,14 @@
     <style>
         body
         {
-            background-color : #f0f2f5;
+            background-color : white;
         }
         div#ff
         {
             width: 40%;
             height : auto;
             margin-top: 5%;
-            border: 1px solid black;
-            border-radius: 25px;
-            background-color : white;
+           
         }
         h2#log
         {

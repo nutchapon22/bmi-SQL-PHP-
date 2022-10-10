@@ -24,8 +24,8 @@
         table#a
         {
             width: 70%;
-            border: 2px solid black;
             margin: 1%;
+            background-color : white;
         }
     </style>
     <div class="container">
