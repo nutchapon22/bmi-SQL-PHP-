@@ -78,7 +78,7 @@
             $q = mysqli_query($connect,$ucq);
             $r = mysqli_fetch_assoc($q);
             
-            if($r['username'] === $u)
+            if($r['un'] === $u)
             {
                 echo "<script>alert('มีไอดีอยู้ในระบบแล้ว');</script>"; 
                 array_push($error,"มีไอดีอยู้ในระบบแล้ว");
